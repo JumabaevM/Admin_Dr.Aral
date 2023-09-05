@@ -1,4 +1,4 @@
-Created by KOMANDA Admin for President Tech Award
+Created by KOMANDA Pokolenie chudes for President Tech Award
 flutter project 
 Dr.Aral
 
